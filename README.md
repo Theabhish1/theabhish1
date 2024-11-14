@@ -18,13 +18,13 @@
 ### 💻 **My Projects**  
 Here are some of my key projects:  
 
-- **[Female Birth Prediction](#)**  
-- **[Text Analysis on Resumes](#)**  
-- **[Breast Cancer Prediction with Flask GUI](#)**  
-- **[Fire and Smoke Detection](#)**  
-- **[WhatsApp Chat Analysis](#)**  
-- **[Sentiment Analysis of Twitter Data](#)**  
-- **[ATM Simulator using Python](#)**  
+- **[Female Birth Prediction](https://github.com/Theabhish1/Female-Birth-Prediction-Time-Series-Analysis-Project-)**  
+- **[Text Analysis on Resumes](https://github.com/Theabhish1/Text-analytics-on-Resume-NLP-Project-)**  
+- **[Breast Cancer Prediction with Flask GUI](https://github.com/Theabhish1/Flask-Final)**  
+- **[Fire and Smoke Detection](https://github.com/Theabhish1/Fire-Detection-Deep-Learning-Project-)**  
+- **[WhatsApp Chat Analysis](https://github.com/Theabhish1/Capstone-Project-of-course)**  
+- **[Sentiment Analysis of Twitter Data](https://github.com/Theabhish1/Hate-Speech-Detection-NLP-Project-)**  
+- **[ATM Simulator using Python](https://github.com/Theabhish1/ATM-SIMULATOR-Python-project)**  
 
 ---
 
