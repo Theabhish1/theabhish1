@@ -51,11 +51,11 @@ Here are some of my key projects:
 # Featured Project Dashboards
 
 ## Power BI Dashboard  
-![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/2/29/Power_BI_Logo.svg)  
+![Power BI Logo](https://cdn-dhhph.nitrocdn.com/YwrWfrMMnPrQoiMcCnngShsqFHLItupA/assets/images/optimized/rev-dc2fa1c/pei.com/wp-content/uploads/2016/08/maxresdefaultreduced.jpg)  
 [Power BI Dashboard](https://github.com/Theabhish1/Volunteering-Project-PowerBI)
 
 ## Flask Application GUI  
-![Flask Logo](https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png)  
+![Flask Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThejmwKaSdHRIvI4IPLvGudxHKM92fKiSDuA&s)  
 [Flask GUI](https://flask-final-abhi.onrender.com/)
 
 
