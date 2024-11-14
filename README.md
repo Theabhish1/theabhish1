@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS,Css and JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abhishekjaiswal99/](https://www.linkedin.com/in/abhishekjaiswal99/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abhishekjaiswal99/](https://www.linkedin.com/in/abhishekjaiswal99)
 
 - 💬 Ask me about **Data Science, Data Analyst**
 
