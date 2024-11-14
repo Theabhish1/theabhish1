@@ -48,13 +48,16 @@ Here are some of my key projects:
 
 ---
 
-### 🖼️ **Featured Project Dashboards**  
+# Featured Project Dashboards
 
-#### Power BI Dashboard  
-![Power BI Dashboard](https://github.com/Theabhish1/Volunteering-Project-PowerBI)  
+## Power BI Dashboard  
+![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/2/29/Power_BI_Logo.svg)  
+[Power BI Dashboard](https://github.com/Theabhish1/Volunteering-Project-PowerBI)
 
-#### Flask Application GUI  
-![Flask GUI](https://flask-final-abhi.onrender.com/)  
+## Flask Application GUI  
+![Flask Logo](https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png)  
+[Flask GUI](https://flask-final-abhi.onrender.com/)
+
 
 ---
 
